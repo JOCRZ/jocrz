@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm JOJO VARGHESE</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="analyst" width="400" src="https://github.com/JOCRZ/jocrz/blob/main/850477fed08bfe98598082bcd309ce70.gif">
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning Data Science
 
 - 📫 How to reach me **jojo3416jo@gmail.com**
 
